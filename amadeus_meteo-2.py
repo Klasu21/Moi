@@ -447,10 +447,3 @@ for act in page_slice:
         )
 
     st.markdown("---")  # visual separator
-
-
-cd ~/Projekte/amadeus
-pwd
-touch requirements.txt       # legt eine neue, leere Datei an
-nano requirements.txt        # öffnet den Nano-Editor
-pip install streamlit-searchbox
