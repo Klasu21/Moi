@@ -448,17 +448,5 @@ for act in page_slice:
 
     st.markdown("---")  # visual separator
 
-streamlit>=1.20.0
-streamlit-searchbox
-requests
-pandas
-
-git add requirements.txt
-git commit -m "Add streamlit-searchbox to requirements"
-git push
-
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-pip show streamlit-searchbox   # zeigt Version und Installationspfad
-streamlit run amadeus_meteo-2.py
+#$ ls
+amadeus_meteo-2.py  requirements.txt
