@@ -448,6 +448,4 @@ for act in page_slice:
 
     st.markdown("---")  # visual separator
 
-# File "/mount/src/moi/amadeus_meteo-2.py", line 452
-  amadeus_meteo-2.py  requirements.txt
-                 
+pip install streamlit-searchbox
