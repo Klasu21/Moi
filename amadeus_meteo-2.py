@@ -447,3 +447,14 @@ for act in page_slice:
         )
 
     st.markdown("---")  # visual separator
+
+
+
+streamlit>=1.20.0
+streamlit-searchbox
+requests
+pandas
+
+git add requirements.txt
+git commit -m "Add streamlit-searchbox to requirements"
+git push
